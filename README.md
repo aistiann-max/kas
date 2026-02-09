@@ -2,7 +2,7 @@
 
 ## 💌 About the Project
 
-A simple and charming Valentine's Day animation featuring an interactive envelope with a hidden love message and a beautiful floral scene.
+THIS JUST MADE FOR FUN, CTTO 
 
 ## ✨ Features
 - Animated envelope that opens and closes
